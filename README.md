@@ -35,6 +35,20 @@ This project is a React-based web application that allows users to interact with
 
 ---
 
+
+## Screenshots
+
+### 📝 Form Page
+![Form Page](images/FormPage_screenshot.png)
+
+### 🗺 Map Interface
+![Map Interface](images/MapPage_interface_screenshot.png)
+
+### 🔷 Polygon Drawn
+![Polygon Drawn](images/Polygon_Drawn_Screenshot.png)
+
+
+
 ## Installation
 
 ### Prerequisites
